@@ -16,7 +16,7 @@
 
 ## About The Project:-
 
-![Home page](https://github.com/ameni-sl/countries-world/blob/master/public/img/Home%20page.png")
+![Home page](https://github.com/ameni-sl/countries-world/blob/master/public/img/Home%20page.png)
 
 =======
 World countries is a  website that gives information about countries such as flag,population etc.,. The user can see all countries from the API on the homepage, search for a country using an input field, filter countries by region, click on a country to see more detailed information on a separate page and finally click through to the border countries on the detail page.
